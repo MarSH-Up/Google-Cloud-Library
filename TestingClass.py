@@ -1,5 +1,5 @@
 #Example
-from GoogleCloud import GoogleCloud
+from src.GoogleCloud import GoogleCloud
 
 #Testing class 
 
